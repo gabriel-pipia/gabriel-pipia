@@ -21,8 +21,9 @@ I'm proficient in the following programming languages and frontend frameworks:
 
 Here are some of the projects I have worked on:
 
--   [rick-and-morty-itstep.netlify.app](https://rick-and-morty-itstep.netlify.app) : [HTML,  SCSS, TypeScript]
--  [todo-list-app-itstep.netlify.app](https://todo-list-app-itstep.netlify.app) : [HTML,  SCSS, TypeScript]
+- [rick-and-morty-itstep.netlify.app](https://rick-and-morty-itstep.netlify.app) : [HTML,  SCSS, TypeScript]
+- [gp-color-palette-generator.netlify.app](https://gp-color-palette-generator.netlify.app) : [HTML, SCSS, TypeScript]
+- [todo-list-app-itstep.netlify.app](https://todo-list-app-itstep.netlify.app) : [HTML,  SCSS, TypeScript]
 - [currancy-converter-itstep.netlify.app](https://currancy-converter-itstep.netlify.app) : [HTML,  SCSS, TypeScript]
 - [inkefy.netlify.app](https://inkefy.netlify.app) : [HTML,  SCSS, TypeScript]
 - [weather-itstep.netlify.app](https://weather-itstep.netlify.app/): [HTML,  CSS, JavaScript]
