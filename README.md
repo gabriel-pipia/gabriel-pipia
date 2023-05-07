@@ -21,13 +21,13 @@ I'm proficient in the following programming languages and frontend frameworks:
 
 Here are some of the projects I have worked on:
 
-- [gp-rick-and-morty.netlify.app](https://gp-rick-and-morty.netlify.app) : [HTML,  SCSS, TypeScript]
-- [gp-color-palette-generator.netlify.app](https://gp-color-palette-generator.netlify.app) : [HTML, SCSS, TypeScript]
-- [gp-todo-list-app.netlify.app](https://gp-todo-list-app.netlify.app) : [HTML,  SCSS, TypeScript]
-- [gp-currancy-converter.netlify.app](https://gp-currancy-converter.netlify.app) : [HTML,  SCSS, TypeScript]
-- [gp-inkefy.netlify.app](https://gp-inkefy.netlify.app) : [HTML,  SCSS, TypeScript]
-- [gp-weather.netlify.app](https://gp-weather.netlify.app/): [HTML,  CSS, JavaScript]
-- [gp-dorne.netlify.app](https://gp-dorne.netlify.app/) : [HTML,  CSS, JavaScript]
+- [rick-and-morty](https://gp-rick-and-morty.netlify.app) : [HTML,  SCSS, TypeScript]
+- [color-palette-generator](https://gp-color-palette-generator.netlify.app) : [HTML, SCSS, TypeScript]
+- [todo-list-app](https://gp-todo-list-app.netlify.app) : [HTML,  SCSS, TypeScript]
+- [currancy-converter](https://gp-currancy-converter.netlify.app) : [HTML,  SCSS, TypeScript]
+- [inkefy](https://gp-inkefy.netlify.app) : [HTML,  SCSS, TypeScript]
+- [weather](https://gp-weather.netlify.app/): [HTML,  CSS, JavaScript]
+- [dorne](https://gp-dorne.netlify.app/) : [HTML,  CSS, JavaScript]
 
 
 You can find more of my projects on my GitHub profile.
