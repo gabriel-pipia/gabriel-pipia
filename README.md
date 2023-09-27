@@ -12,10 +12,10 @@ I'm proficient in the following programming languages and frontend frameworks:
 -   SCSS 🎨
 -   Bootstrap 🎓
 -   Tailwind 🎓
--    JavaScript 🚀,
+-   JavaScript 🚀,
 -   TypeScript 🚀
--    Angular 🅰️
--    Firebase 🔥
+-   Angular 🅰️
+-   Firebase 🔥
 
 ## 💼 Experience
 
@@ -44,6 +44,6 @@ If you have any questions or would like to get in touch with me, you can reach m
 
 🔗 **Linkedin - [in/gabriel-pipia-0108a5231](https://www.linkedin.com/in/gabriel-pipia-0108a5231).**
 
-📩 **Email - gabrielpipia21@gmail.com.**
+📩 **Email - f.gabrielpipia@gmail.com.**
 
- 📞 **Phone - (+995) 599-05-85-13 .**
+ 📞 **Phone - (+995) 599-05-85-13.**
