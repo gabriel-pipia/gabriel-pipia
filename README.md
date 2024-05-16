@@ -33,6 +33,8 @@ Here are some of the projects I have worked on:
 
 You can find more of my projects on my GitHub profile.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-pipia&theme=ambient-gradient&border_radius=20&date_format=j%20M%5B%20Y%5D&border=EBEBEB)](https://git.io/streak-stats)
+
 ## 🔥 Motivation & 🎯 Purpose
 
 I'm very motivated to learn new things and improve my skills as a frontend developer. I'm always looking for new challenges and opportunities to grow.
