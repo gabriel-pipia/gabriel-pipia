@@ -33,7 +33,7 @@ Here are some of the projects I have worked on:
 
 You can find more of my projects on my GitHub profile.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-pipia&theme=ambient-gradient&border_radius=20&date_format=j%20M%5B%20Y%5D&border=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-pipia&theme=ambient-gradient&border_radius=5&date_format=j%20M%5B%20Y%5D&border=EBEBEB)](https://git.io/streak-stats)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-pipia&theme=ambient_gradient&show_icons=true)
 
