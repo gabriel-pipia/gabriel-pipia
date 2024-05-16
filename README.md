@@ -1,6 +1,5 @@
 
-# 👋Hello World! 
-#I'm Gabriel pipia from Georgia 🇬🇪
+# 👋Hello World! I'm Gabriel pipia from Georgia 🇬🇪
 
 Since starting my programming journey in early 2022, I have gradually developed into a software developer with some project experience. My curiosity and desire to build and innovate led me into the world of technology. Today I humbly present to you a collection of personal projects that demonstrate my technical abilities and my commitment to continuous learning and improvement.
 
