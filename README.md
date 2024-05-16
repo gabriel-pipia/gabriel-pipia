@@ -1,9 +1,14 @@
 
-# 👋Hello World! I'm Gabriel pipia
+# 👋Hello World! 
+#I'm Gabriel pipia from Georgia 🇬🇪
 
-Hi, I'm Gabriel pipia, a junior frontend developer💻 from Georgia. This is my GitHub resume where you can find a summary of my skills and experience.
+Since starting my programming journey in early 2022, I have gradually developed into a software developer with some project experience. My curiosity and desire to build and innovate led me into the world of technology. Today I humbly present to you a collection of personal projects that demonstrate my technical abilities and my commitment to continuous learning and improvement.
+
+   I enjoy the challenges of coding and turning ideas into reality. Through hands-on experience, I have gained a solid understanding of various technologies, enabling me to create effective solutions. Every line of code is an opportunity for me to make a positive impact, and I'm open to collaborating with others who share my passion for technology.
 
 ## 🚀 Skills & 💼 Experience
+
+As someone who's taught themselves software development, my career path is really told by the projects I've poured my heart into and posted on my GitHub. Even though I haven't had formal jobs, my GitHub shows how skilled I am in software development.
 
 I'm proficient in the following programming languages and frontend frameworks and libraries:
 
@@ -17,7 +22,7 @@ I'm proficient in the following programming languages and frontend frameworks an
 | 🚀 JavaScript  | +2y        |
 | 🚀 TypeScript  | +1y        |
 | 🅰️ Angular     | +6m        |
-| 🟦 React js    | +6m        |
+| 🟦 Reactjs     | +6m        |
 | 🟩 Nodejs      | +6m        |
 | 🔥 Firebase    | 3 times    |
 
