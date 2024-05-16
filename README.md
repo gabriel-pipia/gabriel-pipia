@@ -3,33 +3,33 @@
 
 Hi, I'm Gabriel pipia, a junior frontend developer💻 from Georgia. This is my GitHub resume where you can find a summary of my skills and experience.
 
-## 🚀 Skills
+## 🚀 Skills & 💼 Experience
 
-I'm proficient in the following programming languages and frontend frameworks:
+I'm proficient in the following programming languages and frontend frameworks and libraries:
 
--   HTML 🌐
--   CSS 🎨
--   SCSS 🎨
--   Bootstrap 🎓
--   Tailwind 🎓
--   JavaScript 🚀
--   TypeScript 🚀
--   Angular 🅰️ 
--   React 🟦
--   Firebase 🔥
-
-## 💼 Experience
+| Language       | Experience |
+|----------------|------------|
+| 🌐 HTML 5      | +2y        |
+| 🎨 CSS 3       | +2y        |
+| 🎨 Sass        | +1y        |
+| 🎓 Bootstrap   | +1y        |
+| 🎓 Tailwind    | +1y        |
+| 🚀 JavaScript  | +2y        |
+| 🚀 TypeScript  | +1y        |
+| 🅰️ Angular     | +6m        |
+| 🟦 React js    | +6m        |
+| 🟩 Nodejs      | +6m        |
+| 🔥 Firebase    | 3 times    |
 
 Here are some of the projects I have worked on:
 
-- [rick-and-morty](https://gp-rick-and-morty.netlify.app) : [HTML,  SCSS, TypeScript]
-- [color-palette-generator](https://gp-color-palette-generator.netlify.app) : [HTML, SCSS, TypeScript]
-- [todo-list-app](https://gp-todo-list-app.netlify.app) : [HTML,  SCSS, TypeScript]
-- [currancy-converter](https://gp-currancy-converter.netlify.app) : [HTML,  SCSS, TypeScript]
-- [inkefy](https://gp-inkefy.netlify.app) : [HTML,  SCSS, TypeScript]
-- [weather](https://gp-weather.netlify.app/): [HTML,  CSS, JavaScript]
-- [dorne](https://gp-dorne.netlify.app/) : [HTML,  CSS, JavaScript]
-
+- [rick-and-morty](https://gp-rick-and-morty.netlify.app)
+- [color-palette-generator](https://gp-color-palette-generator.netlify.app)
+- [todo-list-app](https://gp-todo-list-app.netlify.app)
+- [currancy-converter](https://gp-currancy-converter.netlify.app)
+- [inkefy](https://gp-inkefy.netlify.app)
+- [weather](https://gp-weather.netlify.app/)
+- [dorne](https://gp-dorne.netlify.app/)
 
 You can find more of my projects on my GitHub profile.
 
