@@ -53,7 +53,7 @@ If you have any questions or would like to get in touch with me, you can reach m
 
 🔗 **GitHub - [gabriel-pipia (github.com)](https://github.com/gabriel-pipia).**
 
-🔗 **Linkedin - [in/gabriel-pipia-0108a5231](https://www.linkedin.com/in/gabriel-pipia-0108a5231).**
+🔗 **Linkedin - [in/gabriel-pipia](https://www.linkedin.com/in/gabriel-pipia).**
 
 📩 **Email - mr.gabrielpipia@gmail.com.**
 
