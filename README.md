@@ -1,6 +1,5 @@
 
-# 👋Hello World! 
-##I'm Gabriel pipia from Georgia 🇬🇪
+# 👋Hello World! I'm Gabriel pipia from Georgia 🇬🇪
 
 I commenced studying programming in 2022 and continue to do so. This field is my desired path, and with each passing day, I am acquiring fresh knowledge and experience.
 
