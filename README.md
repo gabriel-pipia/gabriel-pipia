@@ -49,7 +49,7 @@ I'm very motivated to learn new things and improve my skills as a frontend devel
 
 ## 📞 Contact
 
-If you have any questions or would like to get in touch with me, you can reach me at mr.gabrielpipia@gmail.com or connect with me on LinkedIn - [in/gabriel-pipia-0108a5231](https://www.linkedin.com/in/gabriel-pipia-0108a5231). Thank you for taking the time to view my GitHub resume! 🤝
+If you have any questions or would like to get in touch with me, you can reach me at mr.gabrielpipia@gmail.com or connect with me on LinkedIn - [in/gabriel-pipia](https://www.linkedin.com/in/gabriel-pipia). Thank you for taking the time to view my GitHub resume! 🤝
 
 🔗 **GitHub - [gabriel-pipia (github.com)](https://github.com/gabriel-pipia).**
 
