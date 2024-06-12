@@ -13,16 +13,16 @@ I have executed multiple projects showcasing my skills and adept use of technolo
 
 | Language       | Experience |
 |----------------|------------|
-| 🌐 HTML 5      | +2y        |
-| 🎨 CSS 3       | +2y        |
-| 🎨 Sass        | +1y        |
-| 🎓 Bootstrap   | +1y        |
-| 🎓 Tailwind    | +1y        |
-| 🚀 JavaScript  | +2y        |
-| 🚀 TypeScript  | +1y        |
-| 🅰️ Angular     | +6m        |
-| 🟦 Reactjs     | +6m        |
-| 🟩 Nodejs      | +6m        |
+| 🌐 HTML 5      | +2 years   |
+| 🎨 CSS 3       | +2 years   |
+| 🎨 Sass        | +1 years   |
+| 🎓 Bootstrap   | +1 years   |
+| 🎓 Tailwind    | +1 years   |
+| 🚀 JavaScript  | +2 years   |
+| 🚀 TypeScript  | +1 years   |
+| 🅰️ Angular     | +6 month   |
+| 🟦 Reactjs     | +6 month   |
+| 🟩 Nodejs      | +6 month   |
 | 🔥 Firebase    | 3 times    |
 
 Here are some of the projects I have worked on:
