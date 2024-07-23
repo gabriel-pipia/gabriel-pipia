@@ -37,7 +37,7 @@ Here are some of the projects I have worked on:
 
 Several additional projects on my GitHub showcase my practical approach and proficiency in leveraging technology efficiently.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pipia&theme=ambient_gradient&border_radius=5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pipia&theme=default&border_radius=5&layout=compact&hide_progress=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-pipia&theme=ambient-gradient&border_radius=5&date_format=j%20M%5B%20Y%5D&border=EBEBEB)](https://git.io/streak-stats)
 
