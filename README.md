@@ -1,41 +1,30 @@
+# 👋 Hey, I’m Gabriel Pipia
 
-# 👋Hello World! I'm Gabriel pipia from Georgia 🇬🇪
+Full-stack software developer with a passion for building smooth, user-friendly digital experiences. I strongly focus on clean, thoughtful design and writing efficient code that turns ideas into real, impactful projects. Always curious and learning, I strive to make every app and website better than the last.
 
-I commenced studying programming in 2022 and continue to do so. This field is my desired path, and with each passing day, I am acquiring fresh knowledge and experience.
+## 🔥 Goals
 
-Initially, I delved into HTML/CSS, followed by a comprehensive study of JavaScript through online platforms, courses, and videos in both Georgian and English languages.
+Keep learning, keep building, keep growing!
+I want to use my skills to make the world a better place for everyone.
 
-I am presently studying React.js and React Native to enhance my skills for project development.
+## 🚀 Skills
 
-## 🚀 Skills & 💼 Experience
+- HTML5, CSS3, Sass, Tailwind CSS
+- JavaScript, TypeScript, Python
+- React.js, React Native, Angular.js
+- Node.js, Firebase
+- Figma, Canva
 
-I have executed multiple projects showcasing my skills and adept use of technologies:
+## 💡 Projects
 
-| Language       | Experience |
-|----------------|------------|
-| 🌐 HTML 5      | +2 years   |
-| 🎨 CSS 3       | +2 years   |
-| 🎨 Sass        | +1 years   |
-| 🎓 Bootstrap   | +1 years   |
-| 🎓 Tailwind    | +1 years   |
-| 🚀 JavaScript  | +2 years   |
-| 🚀 TypeScript  | +1 years   |
-| 🅰️ Angular     | +6 month   |
-| 🟦 Reactjs     | +6 month   |
-| 🟩 Nodejs      | +6 month   |
-| 🔥 Firebase    | 3 times    |
-
-Here are some of the projects I have worked on:
-
-- [rick-and-morty](https://gp-rick-and-morty.netlify.app)
-- [color-palette-generator](https://gp-color-palette-generator.netlify.app)
-- [todo-list-app](https://gp-todo-list-app.netlify.app)
-- [currancy-converter](https://gp-currancy-converter.netlify.app)
+- [Rick and Morty App](https://gp-rick-and-morty.netlify.app)
+- [Color Palette Generator](https://gp-color-palette-generator.netlify.app)
+- [To-Do List App](https://gp-todo-list-app.netlify.app)
+- [Weather App](https://gp-weather.netlify.app)
 - [inkefy](https://gp-inkefy.netlify.app)
-- [weather](https://gp-weather.netlify.app/)
 - [dorne](https://gp-dorne.netlify.app/)
 
-Several additional projects on my GitHub showcase my practical approach and proficiency in leveraging technology efficiently.
+More on my [GitHub](https://github.com/gabriel-pipia).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-pipia&theme=ambient_gradient&border_radius=5&layout=compact)
 
@@ -43,18 +32,10 @@ Several additional projects on my GitHub showcase my practical approach and prof
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-pipia&theme=ambient_gradient&show_icons=true)
 
-## 🔥 Motivation & 🎯 Purpose
-
-I'm very motivated to learn new things and improve my skills as a frontend developer. I'm always looking for new challenges and opportunities to grow.
-
 ## 📞 Contact
 
-If you have any questions or would like to get in touch with me, you can reach me at mr.gabrielpipia@gmail.com or connect with me on LinkedIn - [in/gabriel-pipia](https://www.linkedin.com/in/gabriel-pipia). Thank you for taking the time to view my GitHub resume! 🤝
+- **Email:** [mr.gabrielpipia@gmail.com](mailto:mr.gabrielpipia@gmail.com)
+- **LinkedIn:** [gabriel-pipia](https://www.linkedin.com/in/gabriel-pipia)
+- **GitHub:** [gabriel-pipia](https://github.com/gabriel-pipia)
 
-🔗 **GitHub - [gabriel-pipia (github.com)](https://github.com/gabriel-pipia).**
-
-🔗 **Linkedin - [in/gabriel-pipia](https://www.linkedin.com/in/gabriel-pipia).**
-
-📩 **Email - mr.gabrielpipia@gmail.com.**
-
- 📞 **Phone - (+995) 599-05-85-13.**
+Thanks for visiting my profile. Your time means a lot to me! 🤝🚀
