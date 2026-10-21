@@ -23,7 +23,7 @@
   <a href="https://instagram.com/mr.pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 5px;"/></a>
   <a href="https://wa.me/599058513" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 5px;"/></a>
   <a href="https://x.com/mr_pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="https://gabrielpipia.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="https://gabrielpipia.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 5px;"/></a>
   <a href="mailto:mr.gabrielpipia@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 5px;"/></a> 
 </p>
 
