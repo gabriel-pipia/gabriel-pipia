@@ -1,20 +1,11 @@
 <!-- markdownlint-disable MD033 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20I'm%20Gabriel&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer💻%20%7C%20UX/UI%20Designer🎨&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=%23000&section=header&reversal=false&text=Hi,+I'm+Gabriel&textBg=false&fontColor=fff&fontSize=30&fontAlign=50&fontAlignY=38&animation=fadeIn&rotate=0&strokeWidth=0" width="100%" alt="Header" />
+</p>
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFF&center=true&vCenter=true&lines=Software+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;And+Engineer+%F0%9F%94%A5;" alt="Typing SVG" width="100%"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%94%A5;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
-
-* 📍 Located in **Tbilisi, Georgia**.
-* 🔭 I’m currently focused on building smooth, user-friendly digital experiences with **clean, thoughtful design** and **efficient code**.
-* 🌱 I’m constantly learning and growing, striving to make every app and website better than the last.
-* 🎯 **Goals:** Keep learning, build impactful projects, and use my skills to make the world a better place.
+> 🎯 **Goals:** Keep learning, growing, and building impactful projects in my own way to make the world a better place.
 
 <br>
 
@@ -22,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gabriel-pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 5px;"/></a> 
   <a href="https://instagram.com/mr.pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 5px;"/></a>
   <a href="https://wa.me/599058513" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="https://x.com/mr_pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="https://x.com/gabriel_pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 5px;"/></a>
   <a href="https://gabrielpipia.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 5px;"/></a>
   <a href="mailto:mr.gabrielpipia@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 5px;"/></a> 
 </p>
@@ -44,13 +35,13 @@
   <tr>
     <td width="100%" valign="top">
       <h4>⚙️ Backend & Database</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" height="40" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,cloudflare" height="40" alt="Backend Skills" />
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
       <h4>🎨 UI/UX Design</h4>
-      <img src="https://skillicons.dev/icons?i=figma,canva" height="40" alt="Design Tools" />
+      <img src="https://skillicons.dev/icons?i=figma,xd" height="40" alt="Design Tools" />
     </td>
   </tr>
 </table>
@@ -61,12 +52,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 20px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabriel-pipia&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="gabriel-pipia's GitHub Stats" width="100%" style="max-width: 400px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabriel-pipia&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="100%" style="max-width: 400px;">
-    <img src="https://streak-stats.demolab.com/?user=gabriel-pipia&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="gabriel-pipia's GitHub Streak" width="100%" style="max-width: 400px;" />
+  <table width="100%" border="1">
+  <tr width="100%">
+    <td width="33%" valign="top">
+   	 <img src="https://github-stats-extended.vercel.app/api?username=gabriel-pipia&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="gabriel-pipia's GitHub Stats" width="100%">
+    </td>
+      <td width="33%" valign="top">
+    	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriel-pipia&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="100%">
+	  </td>
+	   <td width="33%" valign="top">
+    	 <img src="https://streak-stats.demolab.com/?user=gabriel-pipia&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="gabriel-pipia's GitHub Streak" width="100%"/>
+	  </td>
+    </tr>
+    </table>
     <img src="https://trophy.ryglcloud.net/?username=gabriel-pipia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="gabriel pipia's GitHub Trophies" width="100%"/>
-</div>
 
 ### 🔥 Featured Projects
 
@@ -74,14 +73,33 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<table align="center" width="100%" border="1" cellpadding="15">
+<table align="center" width="100%" border="1">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/Tic-Tac-Toe">📌 Tic-Tac-Toe</a></h3>
-      <p>A premium, full-stack Tic Tac Toe mobile app built with Expo and Supabase. Play solo against a bot or challenge friends in real-time.</p>
-      <p>🔵 <b>TypeScript</b> &nbsp;&nbsp; ⭐ <b>2</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+    <td width="30%" valign="top">
+       <h3>📌 Tic-tac-toe | 🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank">Live Demo</a></h3>
+        <a href="https://github.com/gabriel-pipia/Tic-Tac-Toe">
+          <picture>
+            <source
+              srcset="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=dark_github_repocard"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=light_github_repocard" alt="Readme Card" />
+          </picture>
+        </a>
     </td>
-    <td width="50%" valign="top">
+     <td width="30%" valign="top">
+        <a href="https://github.com/gabriel-pipia/Tic-Tac-Toe">
+          <picture>
+            <source
+              srcset="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=dark_github_repocard"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=light_github_repocard" alt="Readme Card" />
+          </picture>
+        </a>
+     <p>🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+     </td>
+    <td width="30%" valign="top">
       <h3><a href="https://github.com/gabriel-pipia/supplement-ge">📌 supplement-ge</a></h3>
       <p>A modern, premium e-commerce mobile application designed specifically for supplements and fitness products.</p>
       <p>🔵 <b>TypeScript</b> &nbsp;&nbsp; ⭐ <b>1</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://supplement-ge.vercel.app" target="_blank"><b>Live Demo</b></a></p>
@@ -117,9 +135,9 @@
 
 <div align="center">
   <a href="https://gabrielpipia.vercel.app/projects" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_See_All_Projects-1A1B27?style=for-the-badge&logoColor=white&color=3B82F6" alt="See All Projects"/>
+    <img src="https://img.shields.io/badge/🚀_See_All_Projects-000?style=for-the-badge&logoColor=white&color=fff" alt="See All Projects"/>
   </a>
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=%23000&height=100&section=footer" width="100%" alt="Footer" />
