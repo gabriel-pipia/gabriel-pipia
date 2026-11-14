@@ -10,14 +10,13 @@
 <br>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 5px;"/></a> 
-  <a href="https://instagram.com/mr.pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="https://wa.me/599058513" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="https://x.com/gabriel_pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="https://gabrielpipia.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 5px;"/></a>
-  <a href="mailto:mr.gabrielpipia@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 5px;"/></a> 
+  <a href="https://www.linkedin.com/in/gabriel-pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/></a> 
+  <a href="https://instagram.com/mr.pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" /></a>
+  <a href="https://wa.me/599058513" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" /></a>
+  <a href="https://x.com/gabriel_pipia" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" /></a>
+  <a href="https://gabrielpipia.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" /></a>
+  <a href="mailto:mr.gabrielpipia@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" /></a> 
 </p>
-
 
 ### 🛠️ Languages & Tools
 
@@ -75,58 +74,51 @@
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td width="30%" valign="top">
-       <h3>📌 Tic-tac-toe | 🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank">Live Demo</a></h3>
+    <td width="50%" valign="top">
+       <h3>📌 Online Game </h3>
         <a href="https://github.com/gabriel-pipia/Tic-Tac-Toe">
-          <picture>
-            <source
-              srcset="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=dark_github_repocard"
-              media="(prefers-color-scheme: dark)"
-            />
-            <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=light_github_repocard" alt="Readme Card" />
-          </picture>
+            <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&hide_border=true&theme=tokyonight" alt="Readme Card" />
         </a>
+         <p>🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank">Live Demo</a></p>
     </td>
-     <td width="30%" valign="top">
-        <a href="https://github.com/gabriel-pipia/Tic-Tac-Toe">
-          <picture>
-            <source
-              srcset="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=dark_github_repocard"
-              media="(prefers-color-scheme: dark)"
-            />
-            <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=Tic-Tac-Toe&theme=light_github_repocard" alt="Readme Card" />
-          </picture>
-        </a>
-     <p>🌍 <a href="https://gp-tictactoe.vercel.app" target="_blank"><b>Live Demo</b></a></p>
-     </td>
-    <td width="30%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/supplement-ge">📌 supplement-ge</a></h3>
-      <p>A modern, premium e-commerce mobile application designed specifically for supplements and fitness products.</p>
-      <p>🔵 <b>TypeScript</b> &nbsp;&nbsp; ⭐ <b>1</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://supplement-ge.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+    <td width="50%" valign="top">
+      <h3>📌 Supplements Store</h3>
+      <a href="https://github.com/gabriel-pipia/supplement-ge">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=supplement-ge&hide_border=true&theme=tokyonight" alt="supplement-ge repository card" />
+      </a>
+      <p>🌍 <a href="https://supplement-ge.vercel.app" target="_blank">Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/weather">📌 weather</a></h3>
-      <p>An elegant Weather application built natively with React Native, Expo, and Reanimated that provides real-time atmospheric data.</p>
-      <p>🔵 <b>TypeScript</b> &nbsp;&nbsp; ⭐ <b>1</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://gp-weather.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+      <h3>📌 Weather App</h3>
+      <a href="https://github.com/gabriel-pipia/weather">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=weather&hide_border=true&theme=tokyonight" alt="weather repository card" />
+      </a>
+      <p>🌍 <a href="https://gp-weather.vercel.app" target="_blank">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/inkefy">📌 inkefy</a></h3>
-      <p>Inkefy is a modern Angular application designed to bridge the gap between digital art (NFTs) and physical displays.</p>
-      <p>🟣 <b>SCSS</b> &nbsp;&nbsp; ⭐ <b>1</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://gp-inkefy.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+      <h3>📌 Digital Art Display</h3>
+      <a href="https://github.com/gabriel-pipia/inkefy">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=inkefy&hide_border=true&theme=tokyonight" alt="inkefy repository card" />
+      </a>
+      <p>🌍 <a href="https://gp-inkefy.vercel.app" target="_blank">Live Demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/To-Doit">📌 To-Doit</a></h3>
-      <p>A high-performance, aesthetically bold task management application built with Expo and React Native featuring Neo-Brutalist design.</p>
-      <p>🔵 <b>TypeScript</b> &nbsp;&nbsp; ⭐ <b>1</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://gp-to-doit.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+      <h3>📌 Task Manager</h3>
+      <a href="https://github.com/gabriel-pipia/To-Doit">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=To-Doit&hide_border=true&theme=tokyonight" alt="To-Doit repository card" />
+      </a>
+      <p>🌍 <a href="https://gp-to-doit.vercel.app" target="_blank">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabriel-pipia/rick-and-morty">📌 rick-and-morty</a></h3>
-      <p>A modern, elegant Angular application that consumes the Rick and Morty API to browse characters, episodes, and explore the multiverse.</p>
-      <p>🟣 <b>SCSS</b> &nbsp;&nbsp; ⭐ <b>2</b> &nbsp;&nbsp; <br><br/>🌍 <a href="https://gp-rick-and-morty.vercel.app" target="_blank"><b>Live Demo</b></a></p>
+      <h3>📌 Rick &amp; Morty Explorer</h3>
+      <a href="https://github.com/gabriel-pipia/rick-and-morty">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gabriel-pipia&repo=rick-and-morty&hide_border=true&theme=tokyonight" alt="rick-and-morty repository card" />
+      </a>
+      <p>🌍 <a href="https://gp-rick-and-morty.vercel.app" target="_blank">Live Demo</a></p>
     </td>
   </tr>
 </table>
@@ -138,6 +130,5 @@
     <img src="https://img.shields.io/badge/🚀_See_All_Projects-000?style=for-the-badge&logoColor=white&color=fff" alt="See All Projects"/>
   </a>
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=%23000&height=100&section=footer" width="100%" alt="Footer" />
