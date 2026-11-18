@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=%23000&section=header&reversal=false&text=Hi,+I'm+Gabriel&textBg=false&fontColor=fff&fontSize=30&fontAlign=50&fontAlignY=38&animation=fadeIn&rotate=0&strokeWidth=0" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=%23000&section=header&reversal=false&text=👋+Hi,+I'm+Gabriel+Pipia&textBg=false&fontColor=fff&fontSize=35&fontAlign=50&fontAlignY=38&animation=fadeIn&rotate=0&strokeWidth=0" width="100%" alt="Header" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFF&center=true&vCenter=true&lines=Software+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;And+Engineer+%F0%9F%94%A5;" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFF&center=false&vCenter=true&lines=Software+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;And+Engineer+%F0%9F%94%A5;" alt="Typing SVG" />
 
 > 🎯 **Goals:** Keep learning, growing, and building impactful projects in my own way to make the world a better place.
 
@@ -131,4 +131,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=%23000&height=100&section=footer" width="100%" alt="Footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=%23000&section=footer&reversal=false&text=Building+with+%E2%9D%A4%EF%B8%8F&textBg=false&fontColor=fff&fontSize=20&fontAlign=50&fontAlignY=75&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="" width="100%" />
